@@ -1,4 +1,4 @@
-I"x<p>Marcel Bednarczyk
+I"L<p>Marcel Bednarczyk
 Student Researcher
 marcelbednarczyk@onet.pl
 Computer Science, Lodz University of Technology
@@ -16,8 +16,8 @@ Arduino</p>
 
 <div class="row">
 	<div class="image centered">
-		<a href="/jekyll-theme-prologue/downloads/example.pdf" download="cv_someone">
-			<img src="/jekyll-theme-prologue/assets/images/cv.png" alt="Download This CV" />
+		<a href="/downloads/example.pdf" download="cv_someone">
+			<img src="/assets/images/cv.png" alt="Download This CV" />
 			<header>
 				<h3>Download This CV Now</h3>
 			</header>
