@@ -5,9 +5,9 @@ layout: "page"
 order: 4
 ---
 
-<p>This Jekyll theme lets you build as many of these sections as you want. They live in the _sections folder in your project's root directory. For some examples, see the [GitHub repository](https://github.com/chrisbobbe/jekyll-theme-prologue). Just be sure to add some [frontmatter](https://jekyllrb.com/docs/frontmatter/) to each section.</p>
+<p>In this section you can find sort of technical information about course such as schedule and survival guide.</p>
 
-<p>All sections have titles, which are listed in the site's navigation menu. At the top of each section, the section's title will render by default (e.g., Welcome to Jekyll!). You'll want to give each section an **order** parameter, also in the frontmatter, or it won't know where to put itself and will hide. Icons are from [Font Awesome](https://fontawesome.com/icons).</p>
+<p>Just click on the icon below to download the file.</p>
 <div class="row">
 	<div class="image centered">
 		<a href="{{ 'downloads/example.pdf' | relative_url }}" download="survival_guide">
