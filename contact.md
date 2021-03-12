@@ -5,11 +5,7 @@ layout: "page"
 order: 5
 ---
 
-<p>Elementum sem parturient nulla quam placerat viverra
-mauris non cum elit tempus ullamcorper dolor. Libero rutrum ut lacinia
-donec curae mus. Eleifend id porttitor ac ultricies lobortis sem nunc
-orci ridiculus faucibus a consectetur. Porttitor curae mauris urna mi dolor.
-<a href = "http://www.google.pl"><strong> Our website </strong></a> </p>
+<p>Feel free to write to us with any questions </p>
 
 <form method="post" action="https://formspree.io/{{ site.email }}">
   <div class="row">
