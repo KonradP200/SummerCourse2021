@@ -11,7 +11,7 @@ order: 4
 
 <div class="row">
 	<div class="image centered">
-		<a href="{{ 'downloads/example.pdf' | relative_url }}" download="survival_guide">
+		<a href="{{ 'downloads/The-BEST-online-course-Survival-Guide.pdf' | relative_url }}" download="Survival_Guide_Best_Online_Course_2021_Lodz">
 			<img src="{{ 'assets/images/survival.png' | relative_url }}" alt="Download Survival Guide">
 			<header>
 				<h3>Download Survival Guide Now</h3>
