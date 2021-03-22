@@ -7,7 +7,7 @@ order: 5
 
 <p>Feel free to write to us with any questions </p>
 
-<form method="post" action="https://formspree.io/{{ site.email }}">
+<form method="post" action="https://formspree.io/f/xvodpknz">
   <div class="row">
     <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Name" /></div>
     <div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="Email" /></div>
